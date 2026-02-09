@@ -1,0 +1,41 @@
+﻿{
+    "name":  "Treino hipertrofia (4x/sem)",
+    "description":  "Nível: intermediario • Duração: 60 min • Foco: peito",
+    "exercises":  [
+                      {
+                          "name":  "Supino reto (barra)",
+                          "sets":  4,
+                          "reps":  "12-10-8-8",
+                          "technique":  "Pirâmide leve",
+                          "order":  0
+                      },
+                      {
+                          "name":  "Supino inclinado (halteres)",
+                          "sets":  4,
+                          "reps":  "10-10-8-8",
+                          "technique":  "Excêntrica 3s",
+                          "order":  1
+                      },
+                      {
+                          "name":  "Crucifixo (cabo)",
+                          "sets":  3,
+                          "reps":  "12-15",
+                          "technique":  "Pico 2s",
+                          "order":  2
+                      },
+                      {
+                          "name":  "Tríceps corda",
+                          "sets":  3,
+                          "reps":  "12-12-10",
+                          "technique":  "Sem balançar",
+                          "order":  3
+                      },
+                      {
+                          "name":  "Tríceps testa (barra W)",
+                          "sets":  3,
+                          "reps":  "10-10-8",
+                          "technique":  "Cotovelos fixos",
+                          "order":  4
+                      }
+                  ]
+}
